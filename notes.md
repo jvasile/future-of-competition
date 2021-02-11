@@ -24,6 +24,12 @@ to be somewhat clearly separated.
  * If competition is the wrong frame, maybe "Future Of Competition" is the wrong title
  * We need more work here to develop the *right* frame
 
+## Counterpoint: we're framing this right
+ * There are some aspects of regulating big tech that *are* rightly about competition
+ * exclusivity agreements, acquisition of threats, non-compete, no-poaching agreements, etc.
+ * We need to acknowledge that talk about the dividing line
+ * We need to deal with this complexity in the regulatory approach to some degree
+
 ## Stacks and edges
  * TCP/IP was the service until it became infra
  * Web was the service until it became infra
