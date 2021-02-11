@@ -14,7 +14,7 @@ to be somewhat clearly separated.
  * when power hits coercive levels, we have problems
  * Coercion is a spectrum and some coercion might be ok
  * Omnipresence can create this coercion, not just monopoly
- * One antidote this is options (or competition or agency)
+ * One antidote to this is options (or competition or agency)
  * Options != competition necessarily
  * Policy framed around monopoly isn't useful-- use can have coercion without monopoly, and the solutions aren't centered on competition.  We're also not worried about consumer pricing
  * Common carrier is another frame people reach for but there's no good reason for it here.
@@ -28,7 +28,7 @@ to be somewhat clearly separated.
  * TCP/IP was the service until it became infra
  * Web was the service until it became infra
  * Maybe social isn't a service anymore, it's infra (and should be treated as such by law)
- * As things become infra, their coercive power naturally/inherently increases, whic is why we need to start worrying about their openness (nobody cared that FB was ivy-only in 2003)
+ * As things become infra, their coercive power naturally/inherently increases, which is why we need to start worrying about their openness (nobody cared that FB was ivy-only in 2003)
  * Options / agency come in at that point
 
 ## Politics
