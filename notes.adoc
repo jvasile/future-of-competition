@@ -1,15 +1,19 @@
-# Future Of Competition
 
-Format options include 10-page policy paper, blog post, everything in
-between.  1000 to 1500 words on up.
+
+= Future Of Competition (Notes)
+:bibliography-database: foc_bibliography.bib
+:bibliography-style: apa
+
+*Format* options include 10-page policy paper, blog post, everything
+in between.  1000 to 1500 words on up.
 
 We need to balance the idealistic explanation of history and framing
 with the practical reality of political limitations and current
 structures.  Maybe those are two parts of the same doc, but they need
 to be somewhat clearly separated.
 
-# Potential Sections
-## We're framing this wrong
+== Potential Sections
+=== We're framing this wrong
  * Competition is about power of participants
  * when power hits coercive levels, we have problems
  * Coercion is a spectrum and some coercion might be ok
@@ -23,21 +27,22 @@ to be somewhat clearly separated.
  * Maybe we can ask some EU folks for the framing over there so we can either take good ideas or cite them as more examples of poor framing
  * If competition is the wrong frame, maybe "Future Of Competition" is the wrong title
  * We need more work here to develop the *right* frame
+ * Feld also critiques the "resort to antitrust", and he (as is typical) tosses in a some history on regulation for the public good as opposed to for market management. cite:[feld01, locator="Introduction, Section A"]
 
-## Counterpoint: we're framing this right
+=== Counterpoint: we're framing this right
  * There are some aspects of regulating big tech that *are* rightly about competition
  * exclusivity agreements, acquisition of threats, non-compete, no-poaching agreements, etc.
  * We need to acknowledge that talk about the dividing line
  * We need to deal with this complexity in the regulatory approach to some degree
 
-## Stacks and edges
+=== Stacks and edges
  * TCP/IP was the service until it became infra
  * Web was the service until it became infra
  * Maybe social isn't a service anymore, it's infra (and should be treated as such by law)
  * As things become infra, their coercive power naturally/inherently increases, which is why we need to start worrying about their openness (nobody cared that FB was ivy-only in 2003)
  * Options / agency come in at that point
 
-## Politics
+=== Politics
  * Do we think about this from an FTC or an FCC perspective?
  * Or do we need a new perspective entirely?
  * There's a mismatch between the political reality and the technical conversations
@@ -45,6 +50,6 @@ to be somewhat clearly separated.
  * At the same time, this is different from common carrier / historical communications paradigms where monopolies are inherently efficient and regulated
 
 
-## What Should the Regulatory Approach Look Like?
+=== What Should the Regulatory Approach Look Like?
  * The approach flows the framing we say is right in section 1
  * How do we mandate some amount of open access while preserving a service's ability to moderate?  The answer is probably some kind of non-discrimination rule.  That is, external access has to meet the same standards as traffic that originates locally.  And one exception: there should probably be a line beyond which you can cut entire groups of users (e.g. all of Parler) to protect your users, even if this is over-broad and blocks some content that isn't actually problematic by your usual moderation rules.
