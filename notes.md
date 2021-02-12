@@ -47,4 +47,4 @@ to be somewhat clearly separated.
 
 ## What Should the Regulatory Approach Look Like?
  * The approach flows the framing we say is right in section 1
- *
+ * How do we mandate some amount of open access while preserving a service's ability to moderate?  The answer is probably some kind of non-discrimination rule.  That is, external access has to meet the same standards as traffic that originates locally.  And one exception: there should probably be a line beyond which you can cut entire groups of users (e.g. all of Parler) to protect your users, even if this is over-broad and blocks some content that isn't actually problematic by your usual moderation rules.
