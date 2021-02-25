@@ -28,6 +28,14 @@ to be somewhat clearly separated.
  * If competition is the wrong frame, maybe "Future Of Competition" is the wrong title
  * We need more work here to develop the *right* frame
  * Feld also critiques the "resort to antitrust", and he (as is typical) tosses in a some history on regulation for the public good as opposed to for market management. cite:[feld01, locator="Introduction, Section A"]
+ * interoperability is gaining traction, along with structural separation
+ * one idea: we're framing this wrong - the harm we're tracking isn't antitrust harm per se, or consumer harm, it's user harm - the point is not "hey stop framing it this way" but rather "recognize that where we're coming from shapes our current state" - we can and must work with the structures that we have, but it's critical to acknowledge the flaws in the metaphor
+ * recognize the limits of our framing, and the thing that we craft now has to bridge the gap in our conceptual reality
+ * need to allude to places where the framing leads us astray but without going too far down the rabbit holes
+ * grounded in US law/policy and regulatory philosophy but this is a broader conversation particularly in EU+UK
+ * we're looking to a future where different regions experiment with applying different regulatory+enforcement paradigms to this still-new space - UK w OFCOM implementing the duty of care, EU with multi-state mechanisms (like DPAs) - lots of things will break over the next few years, and that's OK as long as we learn from it and iterate with our governance in the same way we iterate with our technology
+ * infrastructure works best when it's open. search, social, etc are now infra in a way they haven't been before. we expect more openness now than we did, and we should expect that because it's the optimal approach. just because the infra is vertically integrated with the UX doesn't mean it isn't infra.
+ * If you're going to break anything up, the answer isn't to force Google to dump YouTube, it's separating the platform infra from the UI, which can effectively be done via interop. Same for Facebook - you don't carve out Instagram, you separate the network infra core from the UI. Google search does have at least some interop in this sense.  See https://startpage.com/.  Google apparently shares the index, but not the click data that helps them score it.  Where do we draw the line between the platform and the UI.  Is the click trail part of the platform?  We would say definitely. Why though and what are the repeatable principles that help extend it?
 
 === Counterpoint: we're framing this right
  * There are some aspects of regulating big tech that *are* rightly about competition
@@ -38,18 +46,28 @@ to be somewhat clearly separated.
 === Stacks and edges
  * TCP/IP was the service until it became infra
  * Web was the service until it became infra
- * Maybe social isn't a service anymore, it's infra (and should be treated as such by law)
+ * Maybe social isn't a service anymore, it's infra (and should be treated as such by law).  Or maybe the platform is infra and the interface is a service.
  * As things become infra, their coercive power naturally/inherently increases, which is why we need to start worrying about their openness (nobody cared that FB was ivy-only in 2003)
  * Options / agency come in at that point
 
 === Politics
- * Do we think about this from an FTC or an FCC perspective?
+ * Do we think about this from an FTC or an FCC perspective?  Some of this comes down to antitrust vs competition law.  Chris says this isn't an antitrust problem, but it *is* a competition problem.  James says it's neither.  The harm isn't consumer harm, it's user harm.  This feels like FCC, not FTC territory.
  * Or do we need a new perspective entirely?
  * There's a mismatch between the political reality and the technical conversations
  * If we're saying monopoly is the wrong frame, we're kinda saying we don't care about FTC.  You can have your monopoly if I get my open access
  * At the same time, this is different from common carrier / historical communications paradigms where monopolies are inherently efficient and regulated
 
-
 === What Should the Regulatory Approach Look Like?
  * The approach flows the framing we say is right in section 1
  * How do we mandate some amount of open access while preserving a service's ability to moderate?  The answer is probably some kind of non-discrimination rule.  That is, external access has to meet the same standards as traffic that originates locally.  And one exception: there should probably be a line beyond which you can cut entire groups of users (e.g. all of Parler) to protect your users, even if this is over-broad and blocks some content that isn't actually problematic by your usual moderation rules.
+
+=== China
+ * What kind of a say does China get?
+ * To the extent they open up, they get a say.
+ * It's a risk to policy that we don't have a good view on what's going to happen here.
+ * How do we create incentives/tradeoffs that move the market toward our view of competition and interop, even when a giant economy drags its feet?
+ * arguably we did that once - the open web showed that decentralization and open flow led to faster and better innovation than centralized control. but now we have to prove that again, somehow?
+ * centralization empowers gatekeeping which ensures good value capture
+ * we don't know what would happen if we invested comparable resources (billions$) in decentralization - in some past systems at smaller scale, the lack of capture starved future resources/stabilization.
+ * backwards compatibility is also a challenge for more open systems
+ * can point to places where decentralized still wins - there's open source centralization, e.g. rendering engines (Chromium is open source/Blink); same with Apache and most of the cloud infra powered by open source software
