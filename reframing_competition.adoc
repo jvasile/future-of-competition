@@ -5,6 +5,14 @@
 This is a short (1500 words) piece on the problem with framing big
 tech problems as competition/antitrust.
 
+Future of Openness
+[insert some more setup here about competition context]
+ * The magic formula for the internet is open infrastructure --> level playing field for edge, and open and closed all welcome at the edge.
+ * The problem today is that we’re at a transition moment where the nature of what is infrastructure is changing.
+ * Certain things have become infrastructure in practice, and are not open enough to lead to maximum benefit.
+ * Those things could include search, social, platform access (incl Amazon virtual storefront and Apple/Google Play app stores). Which is not to determine that any of those things are truly considered infrastructure, but rather as a way of reframing the nature of the gatekeeper behavior that is demonstrable qualitatively if not yet (or ever?) quantitatively
+ * The gatekeeper behavior we’re talking about can, sort of, be cast in light of traditional economic concepts like market entry and user switching costs. But a better articulation/formulation is as a gatekeeper of downstream innovation.
+ * From the perspective of protecting the future of openness by limiting gatekeeper control over downstream innovation, the structural remedy conversation is a bit off. We shouldn’t be focused on whether Amazon and AWS are owned by the same company, or even FB and Instagram. We should focus on understanding the difference between the infrastructure-like component and the retail user experience component. (Could cite e.g. Twitter and the vision of a range of user experiences for how to present and order - that reflets the distinction.)
 
 
 == Notes from our discussion
