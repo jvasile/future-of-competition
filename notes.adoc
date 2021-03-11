@@ -50,6 +50,44 @@ to be somewhat clearly separated.
  * exclusivity agreements, acquisition of threats, non-compete, no-poaching agreements, etc.
  * We need to acknowledge that talk about the dividing line
  * We need to deal with this complexity in the regulatory approach to some degree
+ 
+=== Counter-counter-point: competition framing is half-wrong, half-right
+ * EU's Digital Markets Act was designed as a complement to antitrust regulation, and identifies a set of obligations for "gatekeepers." cite:[voxeu:01] These obligations are principally technical in nature, rather than economic.
+ * The economic aspects of the conversation, including exclusivity agreements, non-compete, merger review standards, presumptions etc. - those are all part of the domain of antitrust, and areas where the unique characteristics of the internet as a market or set of markets do not fundamentally distinguish it from other markets, with the exception of our limited toolkit for effectively measuring the value of data and evaluating consumer welfare in a field dominated by zero user facing prices.
+ * But the DMA really opens up the conversation around technical gatekeeping, practices that are structurally distinguishable from classic antitrust because they more closely resemble a statutory translation of common carrier principles into the internet ecosystem. They reflect a governance decision to introduce proactive measures designed to enrich a broader ecosystem and innovation at the edge, recognizing the costs and changed incentives they impose on platform services.
+ * Rather than directly use the phrase "common carrier", "essential facility", or other concepts from prior contexts, let's use a new term to characterize these obligations so we can start our analysis from a fresh mindset - how about *open gatekeepers*?
+
+=== Gatekeeper misbehavior, in the eyes of the DMA:
+==== Article 5, self-executing:
+ * Combining personal data with 3rd party services
+ * Signing end users into other services to make them 1st party as a way to circumvent the above (i.e. using FB auth to login to a website doesn’t make it 1st party)
+ * Prohibiting business users from offering products/services on different terms on other platforms
+ * Mandatory arbitration agreements for business users (i.e. can’t complain to gov)
+ * Requiring “business users” to work with platform’s own identification service (i.e. for a seller to buy ads on FB/Google they have to let their users auth w FB/Google); this is also related to combining data across services
+ * Required services bundling (intended primarily to cover ad tech stack bundling)
+ * Hiding prices for advertising/publishing (i.e. statutory requirement to disclose specific pricing info related to specific ads) (unclear what specific harm this is?)
+ 
+==== Article 6, “susceptible of being further specified” i.e. maybe negotiated: 
+ * Using non-public data associated with business users to compete with them (Amazon rolling out white label copies problem; could also cover G ad practices)
+ * Blocking user removal of pre-installed software except where it is necessary for the functioning of the device and can’t technically be offered standalone (i.e. let them uninstall web browsers or Google apps on a Google phone, but also Apple)
+ * Blocking 3rd party apps, app stores, and sideloading (however you can install security measures to keep them from harming the device/operating system)
+ * Self-preferencing in “ranking services and products” (search, stores) (rule requires “fair and non-discriminatory conditions” for ranking)
+ * Blocking user switching (unclear what this means or how it’s different from installing non-dominant apps)
+ * Not allowing “business users and providers of ancillary services” interoperability on the same terms as “ancillary services” offered by the gatekeeper
+ * Not providing advertisers and publishers access to performance measuring tools / blocking independent verification of ad inventory
+ * Not supporting effective data portability, “including continuous and real-time access”, scoped for “data generated through the activity of a business user or end user” (whatever that means)
+ * Not providing business users or authorized third parties of business users with data relevant for interoperability (this is confusing, provision i)
+ * Not providing click, query, and view data for search on FRAND terms
+ * Not applying fair and non-discriminatory access to app stores
+ 
+==== Clustering
+ * Combining data and related provisions: Privacy intervention cognizable within the Open Gatekeepers bucket of policies, arguably
+ * Prohibiting offerings on other terms: Feels more like antitrust
+ * Mandatory arbitration: Antitrust (or consumer protection?)
+ * Identification services provisions: Open Gatekeepers, I would argue; there's a case to call it antitrust bc tying, but identification is so fundamental a technical concept and so intersecting with combining data that it stands apart
+ * Services bundling in general: Antitrust/tying, unless there's some higher standard that reaches to limitations on downstream innovation or privacy
+ * Hiding prices for advertising/publishing: Open Gatekeepers - feels more akin to transparency obligations associated with common carrier practices
+ * Everything in Article 6 falls in the Open Gatekeelers buckets - the EU recognizes that these are uncertain, subject to future negotiation, 
 
 === Stacks and edges
  * TCP/IP was the service until it became infra
