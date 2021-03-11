@@ -5,6 +5,23 @@
 This is a short (1500 words) piece on the problem with framing big
 tech problems as competition/antitrust.
 
+News hook? House Judiciary Committee will introduce legislation.  Timing unknown.
+
+== Introduction
+ * Competition is about power of participants
+ * The frame isn't wrong when you apply it to the things it is good at, it's good.
+ * To stretch that or to fail to contextualize that properly is to miss the core of the internet.
+== Argument
+=== Ways current frameworks don't describe reality
+ * Antitrust / common carrier spectrum, this is new
+ * It takes so long to argue the current market power / competition framework that companies get to wait out the clock on administrations
+=== Ways current framework solutions don't match the need/reality
+== Conclusion
+=== We get why the current frameworks get used
+=== We need different frames
+=== Better solutions will come from better metaphors
+ * We need something streamlined to prevent waiting out the clock
+
 Future of Openness
 [insert some more setup here about competition context]
  * The magic formula for the internet is open infrastructure --> level playing field for edge, and open and closed all welcome at the edge.
@@ -16,9 +33,8 @@ Future of Openness
 
 
 == Notes from our discussion
-
- * Competition is about power of participants
- * when power hits coercive levels, we have problems
+  * Zero marginal cost of goods is not part of our argument.
+  * when power hits coercive levels, we have problems
  * Coercion is a spectrum and some coercion might be ok
  * Omnipresence can create this coercion, not just monopoly
  * One antidote to this is options (or competition or agency)
