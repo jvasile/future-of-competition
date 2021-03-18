@@ -11,11 +11,18 @@ News hook? House Judiciary Committee will introduce legislation.  Timing unknown
  * Competition is about power of participants
  * The frame isn't wrong when you apply it to the things it is good at, it's good.
  * To stretch that or to fail to contextualize that properly is to miss the core of the internet.
+
 == Argument
-=== Ways current frameworks don't describe reality
- * Antitrust / common carrier spectrum, this is new
- * It takes so long to argue the current market power / competition framework that companies get to wait out the clock on administrations
+
+=== Neither competition nor communications paradigms describe the internet perfectly
+The internet is something new, and yet we continue to examine it through old frames of reference. We see large, successful businesses whose actions are seen as limiting market entry and fair competition, so we look to apply antitrust; yet that doesn't tell the full story, and our toolkit doesn't seem to have the right metrics or remedies. At the other end of the spectrum, we have a history of accepting the market positions of incumbents who offer communications services, and mitigating the potential for harm through specific structural and behavioral obligations, derived from even older common carriage principles. But that, too, is imperfect in many ways.
+It won't stop advocates for reform from trying, naturally. And things have heated up with antitrust in particular, with multiple lawsuits filed against Google and Facebook (separately) asserting monopoly status and illegal anti-competitive practices. It will take years for these matters to reach trial, and Congress has shown no signs of waiting, as both the House and Senate prepare to take up legislation to increase competition restrictions on tech companies (add cites). It's not hard for a wealthy defendant to argue over market definition and power until the clock runs out on an administration or a session of Congress; political winds shift much quicker and more fluidly than court schedules.
+Meanwhile, Congress and the general public are re-examining the tradeoffs built into the infamous immunity provision of Section 230 of the Communications Act, with several bills introduced that propose repeal or massive reform. Unlike with antitrust, there's no plausible enforcement action or other remedy absent statutory change--although that didn't stop the Trump administration from trying a long-shot executive order directing the NTIA to press FCC on the matter (add cite to https://trumpwhitehouse.archives.gov/presidential-actions/executive-order-preventing-online-censorship/ ).
+These are complex and challenging questions, grounded in very real harms resulting from the actions of companies that have simultaneously done incredible things. But we continue approaching them through flawed metaphors that fail to recognize the unique technical characteristics of the internet (consider cite to https://www.internetsociety.org/internet-invariants-what-really-matters/).
+(Is this framing too big? I feel a bit like we're trying to tackle everything, and really we could consider focusing specifically on structural separation as that concept is used - there's a narrower piece to write here about structural separation vs essential facilities doctrine vs common carrier obligations vs interoperability that could be an illustration of the broader point, without necessitating such ambitious rhetoric at the top.)
+(We could then make this a more practical piece that says - the internet is changing, it's always changing, to support that change the current discussions around structural separation are at risk of missing the mark - just as the ones about "stack neutrality" or other attempts to import common carrier principles from communications law directly are off the mark. the idea of a "Gatekeeper" could be useful if separated from the narrower economic/antitrust contexts, perhaps...)
 === Ways current framework solutions don't match the need/reality
+ * structural separation is looking at structures the wrong way
 == Conclusion
 === We get why the current frameworks get used
 === We need different frames
