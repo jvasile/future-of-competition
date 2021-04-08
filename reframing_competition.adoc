@@ -37,7 +37,7 @@ concentration of power in communications.
 
 Competition is about the power of market participants.  We take for
 granted that rules concerning the balance of power between competitors
-will trickle down to benefit consumers, perhaps by shifting the power
+will trickle down to benefit consumers by shifting the power
 balance toward customers.  But there is a lot of distance between
 those rules and the consumers regulations are supposed to help.  If
 what we want is to empower users and give them meaningful choices,
@@ -45,26 +45,29 @@ perhaps there are ways we can do that more directly.
 
  * The frame isn't wrong when you apply it to the things it is good at, it's good.
  * To stretch that or to fail to contextualize that properly is to miss the core of the internet.
+ * We should make the point that what matters in this space is power, not competition and yet competition IS about power
 
 == Argument
 
 === Neither competition nor communications paradigms describe the internet perfectly
+
 The internet is something new, and yet we continue to examine it through old frames of reference. We see large, successful businesses whose actions are perceived by smaller competitors to limit market entry and fair competition, so we look to apply antitrust; yet that doesn't tell the full story, and our toolkit may well not have the right metrics or remedies to evaluate and redress the underlying harms. At the other end of the spectrum, we have a history of accepting the market positions of incumbents who offer communications services, and mitigating the potential for harm through specific structural and behavioral obligations, derived from even older common carriage principles. But that, too, is imperfect in many ways when considered for extension to the internet, for example through the frame of "stack neutrality". cite:[wexthayer01]
 Structural differences won't stop advocates for reform from trying to apply existing doctrines to new contexts. Reform efforts have heated up with antitrust in particular, with multiple lawsuits filed against Google and Facebook (separately) asserting monopoly status and illegal anti-competitive practices. It will take years for these matters to reach trial, and it's not hard for a wealthy defendant to argue over market definition and power until the clock runs out on an administration or a session of Congress; political winds shift much quicker and more fluidly than court schedules.
-And Congress has shown no signs of waiting, either. Both the House and Senate prepare to take up legislation to increase competition restrictions on tech companies. cite:[axiosswan:01] And many policymakers and influencers are re-examining the tradeoffs built into the infamous immunity provision of Section 230 of the Communications Act, with several bills and policy proposals calling for repeal or massive reform. Unlike with antitrust, there's no plausible enforcement action or other remedy absent statutory change--although that didn't stop the Trump administration from trying a long-shot executive order directing the NTIA to press FCC on the matter (add cite to https://trumpwhitehouse.archives.gov/presidential-actions/executive-order-preventing-online-censorship/ ).
 These are complex and challenging questions, grounded in very real harms resulting from the actions of companies that have, at the same time, done incredibly positive things as well. But we will be limited in our ability to get that balance right so long as we continue approaching them principally through flawed metaphors that fail to recognize the unique technical characteristics of the internet (consider cite to https://www.internetsociety.org/internet-invariants-what-really-matters/).
-(Is this framing too big? I feel a bit like we're trying to tackle everything, and really we could consider focusing specifically on structural separation as that concept is used - there's a narrower piece to write here about structural separation vs essential facilities doctrine vs common carrier obligations vs interoperability that could be an illustration of the broader point, without necessitating such ambitious rhetoric at the top.)
 (I think we can focus it by simply pivoting to the idea that we don't need to reject these frames and all of these discussions have their place - but we need to supplement them with net-native paradigms and theories of governance.)
+
 === Ways current frameworks don't describe reality
  * Antitrust / common carrier spectrum, this is new
  * It takes so long to argue the current market power / competition framework that companies get to wait out the clock on administrations
  * Common carrier is another frame people reach for but there's no good reason for it here.
  * recognize the limits of our framing, and the thing that we craft now has to bridge the gap in our conceptual reality
+ * Options != competition necessarily - just because I'm making an alternative client doesn't mean I'm competing with you.  It affects power and not competition.
 
 === Ways current framework solutions don't match the need/reality
  * structural separation is looking at structures the wrong way - metaphor of industrial supply chain integration is wrong. consider what it looks like to re-imagine an integrated user-facing service as a composite of both an infrastructure and a retail function. after all, that's how it's engineered in practice - and why there are separate engineering teams for each function, and private APIs powering their intersection. what does it look like to re-imagine the conversation we're having around structural separation, which is too often grounded in historical yet inapposite theories of the undoing of mergers (whether stylized as vertical or horizontal), in that lens?
  * even governance paradigms need new thinking - we are swinging on a pendulum between hands-off self-governance first and towards regulatory intervention that specifies specific practices or outcomes. that isn't the net-native approach, which is one that promotes responsible, transparent, adaptive innovation and growth. what does effective co-regulatory governance look like that creates incentives for tech to be developed for good and with accountability (because we know now those things don't just happen on their own), but without paternalism and undue ex ante restriction?
-== Conclusion
+
+== Conclusions
 === We get why the current frameworks get used
 
 In the short term, it is easiest and most productive to reach for
@@ -73,6 +76,7 @@ naturally reaches for current tools.  Enacting new frameworks for
 regulating online activity is a long and fraught process.
 
 === We need different frames
+
 === Better solutions will come from better metaphors
  * We need something streamlined to prevent waiting out the clock
 
@@ -92,7 +96,7 @@ Future of Openness
  * Coercion is a spectrum and some coercion might be ok
  * Omnipresence can create this coercion, not just monopoly
  * One antidote to this is options (or competition or agency)
- * Options != competition necessarily
+
  * Policy framed around monopoly isn't useful-- use can have coercion without monopoly, and the solutions aren't centered on competition.  We're also not worried about consumer pricing
  * The availability of options is important even if you never take them (think forking open source code, or building new apps and services)
  * The traditional language, framing, and legal concepts around antitrust don't fit this. There are practical reasons to need to squeeze the internet circle into these squares to use existing law in litigation; but for new regulatory approaches, we can and should recognize the nature of this and approach it more effectively.
