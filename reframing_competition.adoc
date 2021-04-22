@@ -57,6 +57,25 @@ These are complex and challenging questions, grounded in very real harms resulti
 (I think we can focus it by simply pivoting to the idea that we don't need to reject these frames and all of these discussions have their place - but we need to supplement them with net-native paradigms and theories of governance.)
 
 === Ways current frameworks don't describe reality
+
+Competition sometimes feels like the right lens through which to view
+giant tech companies with billions of users.  We take for granted that
+we can guide these companies to compete to best serve user interests.
+The problem is not one of competition, though.  It is a problem of
+power.  Facebook has too much of it and users have none.
+
+Adjusting the relationships of competitors in hopes of changing the
+relationship between companies and consumers has always been an
+indirect path to fixing a power imbalance between individuals and
+companies.  When the consumers aren't even the customers, even that
+indrect connection falters.  Add in network effects and silos, and you
+have a power dynamic that owes little of its pwoer to the competitive
+relationship betwen providers.  The direct solution is to empower
+users, not to rebalance the ability of giant providers to apportion
+users between platforms that all abuse them in similar ways.
+
+
+
  * Antitrust / common carrier spectrum, this is new
  * It takes so long to argue the current market power / competition framework that companies get to wait out the clock on administrations
  * Common carrier is another frame people reach for but there's no good reason for it here.
@@ -70,10 +89,12 @@ These are complex and challenging questions, grounded in very real harms resulti
 == Conclusions
 === We get why the current frameworks get used
 
-In the short term, it is easiest and most productive to reach for
-existing frameworks.  Anybody seeking to change current behavior
-naturally reaches for current tools.  Enacting new frameworks for
-regulating online activity is a long and fraught process.
+For advocates, the traditional frameworks might be the fastest route
+to regulatory progress, even if those frameworks aren't a great fit
+for the current set of problems. Anybody seeking to change current
+behavior naturally reaches for current tools.  Enacting new frameworks
+for regulating online activity is a long and fraught process.  In the
+long run, better metaphors will yield more effective regulation.
 
 === We need different frames
 
