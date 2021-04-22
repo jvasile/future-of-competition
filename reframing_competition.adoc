@@ -72,6 +72,7 @@ Justice Thomas recently said maybe tech platforms should be regulated as utiliti
 PK piece theorizes that CC makes more sense the more proximate to infrastructure https://www.publicknowledge.org/blog/what-makes-a-common-carrier-and-what-doesnt/
 Siloed nature of services limits their ability to serve as infrastructure, but doesn't completely prevent it. There are entire businesses built on reaching customers via Facebook, e.g. What about search? Similarly it's an end user product for sure, however it also feels like infrastructure.
 
+On the common carrier argument: https://www.publicknowledge.org/blog/what-makes-a-common-carrier-and-what-doesnt/
 
 Which infrastructure are we talking about here?  Social media is more siloed and has lock-in, but search doesn't.  Some of that is because search is more grounded in the open web while social is an echo of the Compuserv model from years ago.  The ideas we present here apply more to the former than the latter.
 
