@@ -12,7 +12,7 @@ Current status of House Jud process as of March: A series (~10) of small bills w
 
 Big tech is begging for regulation.  A few large platforms dominate
 online communication.  Everybody has a list of complaints.  They sell
-our privacy, restrict the wrong speech, and encourage discord.  People
+our privacy, restrict the wrong speech, invisibly steer us toward certain content, and encourage discord.  People
 want to leave these services, but they're the only way to keep up with
 friends and family.  Many of us feel trapped in a relationship with
 services that are clearly not doing their best to care for us as
@@ -60,28 +60,38 @@ These are complex and challenging questions, grounded in very real harms resulti
 
 Competition sometimes feels like the right lens through which to view
 giant tech companies with billions of users.  We take for granted that
-we can guide these companies to compete to best serve user interests.
-The problem is not one of competition, though.  It is a problem of
-power.  Facebook has too much of it and users have none.
+we can guide these companies to compete with each other to best serve user interests. The problem is not one of competition, though.  It is a problem of
+power.  Google has too much of it and users have none.
 
-Adjusting the relationships of competitors in hopes of changing the
-relationship between companies and consumers has always been an
-indirect path to fixing a power imbalance between individuals and
-companies.  When the consumers aren't even the customers, even that
-indrect connection falters.  Add in network effects and silos, and you
-have a power dynamic that owes little of its pwoer to the competitive
-relationship betwen providers.  The direct solution is to empower
-users, not to rebalance the ability of giant providers to apportion
-users between platforms that all abuse them in similar ways.
+Adjusting the relationships of competitors has always been an
+indirect path to fixing a power imbalance between those companies and individual consumers.  When the consumers aren't even the customers, that
+faint connection between policy and consumer harm falters.  Add in network effects and silos, and you have a power dynamic that owes little of its power to the competitive relationship betwen providers.  The direct solution is to empower
+users, not to rebalance the ability of giant providers to apportion users between platforms that all abuse them in similar ways.
+
+Justice Thomas recently said maybe tech platforms should be regulated as utilities.
+PK piece theorizes that CC makes more sense the more proximate to infrastructure https://www.publicknowledge.org/blog/what-makes-a-common-carrier-and-what-doesnt/
+Siloed nature of services limits their ability to serve as infrastructure, but doesn't completely prevent it. There are entire businesses built on reaching customers via Facebook, e.g. What about search? Similarly it's an end user product for sure, however it also feels like infrastructure.
 
 
+Which infrastructure are we talking about here?  Social media is more siloed and has lock-in, but search doesn't.  Some of that is because search is more grounded in the open web while social is an echo of the Compuserv model from years ago.  The ideas we present here apply more to the former than the latter.
 
- * Antitrust / common carrier spectrum, this is new
- * It takes so long to argue the current market power / competition framework that companies get to wait out the clock on administrations
- * Common carrier is another frame people reach for but there's no good reason for it here.
- * recognize the limits of our framing, and the thing that we craft now has to bridge the gap in our conceptual reality
- * Options != competition necessarily - just because I'm making an alternative client doesn't mean I'm competing with you.  It affects power and not competition.
+Search, organic, isn't what we're talking about; but many concerns with Google reflect something akin to the creation of a silo within search results.
 
+Are we only talking about social, then? Search seems to fit too [but is different]; but definitely not Gmail, YouTube, etc.  What about Amazon retail?  Amazon creates a siloed, heavily-controlled environment in what used to be an open field.
+
+Power and control itself restricts diversity in the environment and that produces harm to consumers. (E.g. Amazon white-label isn't really the core concern, the idea is more the structure and how it centers power.)
+
+Competition law is focused on price, common carrier is focused on access; neither is about diversity. Goal is reaching meaningful consumer choice and agency to act on that choice, and the path there is diversity of experiences and interoperability as means of reaching agency.
+
+Lots of people using Amazon, lots of people on Facebook - fine. The problem arises when each individual realizes their agency is constrained and they're effectively forced into shopping via Amazon and connecting via Facebook.
+
+This isn't a problem of either access or price. Amazon and Facebook welcome you in - access is easy - and they set very good prices.
+
+Rebalancing the relationship between businesses is the tool that we have, but that doesn't get us the result we need.
+
+ * just because I'm making an alternative client doesn't mean I'm competing with you.  It affects power and not competition.
+
+Conclusion: recognize the limits of our framing, and the thing that we craft now has to bridge the gap in our conceptual reality
 === Ways current framework solutions don't match the need/reality
  * structural separation is looking at structures the wrong way - metaphor of industrial supply chain integration is wrong. consider what it looks like to re-imagine an integrated user-facing service as a composite of both an infrastructure and a retail function. after all, that's how it's engineered in practice - and why there are separate engineering teams for each function, and private APIs powering their intersection. what does it look like to re-imagine the conversation we're having around structural separation, which is too often grounded in historical yet inapposite theories of the undoing of mergers (whether stylized as vertical or horizontal), in that lens?
  * even governance paradigms need new thinking - we are swinging on a pendulum between hands-off self-governance first and towards regulatory intervention that specifies specific practices or outcomes. that isn't the net-native approach, which is one that promotes responsible, transparent, adaptive innovation and growth. what does effective co-regulatory governance look like that creates incentives for tech to be developed for good and with accountability (because we know now those things don't just happen on their own), but without paternalism and undue ex ante restriction?
@@ -132,6 +142,8 @@ Future of Openness
  * we're looking to a future where different regions experiment with applying different regulatory+enforcement paradigms to this still-new space - UK w OFCOM implementing the duty of care, EU with multi-state mechanisms (like DPAs) - lots of things will break over the next few years, and that's OK as long as we learn from it and iterate with our governance in the same way we iterate with our technology
  * infrastructure works best when it's open. search, social, etc are now infra in a way they haven't been before. we expect more openness now than we did, and we should expect that because it's the optimal approach. just because the infra is vertically integrated with the UX doesn't mean it isn't infra.
  * If you're going to break anything up, the answer isn't to force Google to dump YouTube, it's separating the platform infra from the UI, which can effectively be done via interop. Same for Facebook - you don't carve out Instagram, you separate the network infra core from the UI. Google search does have at least some interop in this sense.  See https://startpage.com/.  Google apparently shares the index, but not the click data that helps them score it.  Where do we draw the line between the platform and the UI.  Is the click trail part of the platform?  We would say definitely. Why though and what are the repeatable principles that help extend it?
+ * It takes so long to argue the current market power / competition framework that companies get to wait out the clock on administrations.  A faster path would be a co-regulatory model where they work with regulators to prevent regulatory litigation. "negotiated compliance"
+
 
 === Counterpoint: we're framing this right
  * There are some aspects of regulating big tech that *are* rightly about competition
